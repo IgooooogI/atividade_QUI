@@ -14,29 +14,29 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`Sustentabilidade voltada para empresas.`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`Como fazer o descarte correto de hardwares para grandes empresas.`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `Componentes eletronicos`
+- Objeto estudado: `Componentes Internos de maquinarios`
+- Contexto ou aplicação: `Empresas com dificuldade no descarte correto de componentes eletronicos`
+- Aspecto que será analisado: `Descarte correto das empresas`
+- O que ficará fora do estudo: `Tudo que não englobe componentes eletronicos`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`O descarte correto de componentes eletrônicos é importante para reduzir os impactos ambientais causados pelo lixo eletrônico e evitar a contaminação do solo e da água por substâncias presentes nesses materiais. Além disso, grandes empresas geram uma quantidade significativa de resíduos eletrônicos, tornando necessário adotar práticas adequadas de descarte e reciclagem. Dessa forma, o estudo busca contribuir para uma gestão mais sustentável dos componentes internos de maquinários, promovendo responsabilidade ambiental e o reaproveitamento de materiais.`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `Sim`
+- O tema pode ser estudado no prazo? `Sim`
+- O grupo possui acesso às fontes necessárias? `Sim`
 
 ## Produto da etapa
 
@@ -44,11 +44,11 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
+- [X] O tema é específico.
+- [X] O tema é relevante.
 - [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [X] O recorte está claro.
+- [X] O tema foi validado pelo professor.
 
 ## Contribuições
 
