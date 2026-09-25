@@ -22,7 +22,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `Componentes eletronicos`
+- Tema amplo: `Sustentabilidade`
 - Objeto estudado: `Componentes Internos de maquinarios`
 - Contexto ou aplicação: `Empresas com dificuldade no descarte correto de componentes eletronicos`
 - Aspecto que será analisado: `Descarte correto das empresas`
