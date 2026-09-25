@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Felipe Gomes, Kawã Magno, Igor Pedrosa, Pedro Beltran` | `24/09/2026` |
