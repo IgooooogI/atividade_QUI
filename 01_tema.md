@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`Como fazer o descarte correto de hardwares para grandes empresas.`
+`Como fazer o descarte correto de hardwares de grandes empresas.`
 
 ### Do tema amplo ao específico
 
@@ -54,4 +54,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Felipe Gomes, Kawã Magno, Igor Pedrosa, Pedro Beltran` | `24/09/2026` |
