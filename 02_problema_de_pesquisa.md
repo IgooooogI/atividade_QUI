@@ -15,8 +15,8 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 ## Verificação
 
 - O que se deseja descobrir ou compreender? `Como geralmente é feito o descarte de materiais eletrônicos pelas empresas.`
-- Qual é o objeto da pergunta? ``
-- Qual é o contexto ou recorte? ``
+- Qual é o objeto da pergunta? `os lixos eletronicos`
+- Qual é o contexto ou recorte? `as empresas descartando o lixo incorretamente`
 - A pergunta pode ser respondida por artigos científicos? `Sim, visto que existem artigos que demonstram a responsabilização das empresas pelo descarte inapropriado`
 - Por que essa pergunta é relevante? `Com o descarte incorreto as empresas acabem por poluir o meio ambiente, e sem uma analise e demonstração sobre como isso nos afeta esse problema nunca poderá ser respondido`
 
