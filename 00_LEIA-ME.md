@@ -16,9 +16,9 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 ## Identificação geral
 
 - Curso e disciplina: `ADS`
-- Professor ou orientador: `Isabella`
+- Professor ou orientador: `Isabella Souza`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
+- Integrantes: `Felipe Gomes, Kawã Magno, Igor Pedrosa, Pedro Beltran`
 - Data de início: `24/09/2026`
 
 
