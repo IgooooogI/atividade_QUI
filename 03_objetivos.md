@@ -6,26 +6,26 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`Qual a dificuldade encontrada pelas empresas para o descarte correto do lixo eletrônico acontecer?`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`analisar o descarte de lixo eletrônico nas empresas`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
+1. `Auxiliar para o descarte correto do lixo eletronico`
+2. `Preservar o meio ambiente`
+3. `Ensinar como funciona o descarte sustentavel`
 4. `[opcional]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `O descarte incorreto do lixo eletronico` |
+| Objetivo geral | `Demonstrar como as grandes empresas prejudicam o meio ambiente` |
+| Resultado esperado | `Encontrar os principais problemas no descarte inapropriado` |
 
 ## Produto da etapa
 
@@ -33,7 +33,7 @@ Um objetivo geral e de três a quatro objetivos específicos.
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [X] Os objetivos começam com verbos no infinitivo.
+- [X] O objetivo geral responde ao problema.
+- [X] Os objetivos específicos detalham o objetivo geral.
+- [X] Os objetivos são compatíveis com uma revisão bibliográfica.
