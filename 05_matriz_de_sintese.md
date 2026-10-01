@@ -14,8 +14,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`Conhecimento e políticas institucionais`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
-|`Práticas de gestão e impactos`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`Conhecimento e políticas institucionais`|`OLIVEIRA (2013); VASCONCELOS et al. (2024)`|`Ambos os estudos demonstram que existe um baixo nível de conhecimento entre os profissionais e servidores em relação às práticas e normas adequadas para o descarte de equipamentos.`|`O artigo de Oliveira aborda a falta de conhecimento sob a perspectiva de apagar os dados para a segurança da informação, enquanto Vasconcelos et al. focam na falta de conhecimento sobre o conceito de lixo eletrônico e legislações ambientais como a PNRS`|`O artigo de Oliveira limitou-se a uma amostra pequena composta por vinte profissionais, e o estudo de Vasconcelos et al. analisou apenas uma única secretaria municipal.`|`Os dados apontam para a necessidade de verificar se os mesmos níveis de desconhecimento se aplicam ao contexto de grandes empresas privadas em geral.`|
+|`Práticas de gestão e impactos`|`OLIVEIRA (2013); VASCONCELOS et al. (2024); Estudo sobre CEDIR-USP`|`Todos os artigos evidenciam que a gestão e o descarte corretos dos equipamentos eletrônicos são etapas fundamentais dentro das organizações.`|`Enquanto o estudo em Manaus e na USP focam nos impactos ambientais e no ciclo de vida físico do hardware, o estudo de Oliveira foca nos riscos corporativos relacionados à recuperação de informações por terceiros nas mídias digitais.`|`O estudo focado no CEDIR-USP e o estudo na secretaria de Manaus baseiam-se em estudos de caso organizacionais únicos, o que não permite generalização automática.`|`Há a necessidade de mais informações sobre os resultados práticos obtidos nas empresas que recebem esses resíduos eletrônicos`|
 
 ## Roteiro da revisão da literatura
 
