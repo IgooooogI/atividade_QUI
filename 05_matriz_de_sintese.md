@@ -6,8 +6,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
+1. `[Conhecimento dos colaboradores e políticas institucionais no descarte de eletrônicos.]`
+2. `[Práticas de gestão de resíduos e mitigação de impactos (ambientais e de segurança corporativa)]`
 3. `[Eixo ou subtema 3, se necessário]`
 
 ## Matriz de síntese
@@ -20,26 +20,26 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[A ineficácia do descarte de eletrônicos está frequentemente ligada ao desconhecimento humano e à falta de políticas internas claras nas organizações.]`
+* Evidências que serão usadas: `[Dados que comprovam que cerca de 90% dos servidores entrevistados em uma secretaria municipal não conheciam legislações sobre lixo eletrônico. Dados mostrando que profissionais de TI podem não ter preparo para impedir a recuperação de dados de discos rígidos descartados.]`
+* Comparação entre estudos: `[O simples fato de uma organização possuir equipamentos não garante que os funcionários saibam geri-los no fim da vida útil. Esse problema é observado tanto na administração pública quanto no ambiente corporativo.]`
+* Ligação com o problema: `[Demonstra que a implementação de locais de descarte não é suficiente, pois o fator humano e a falta de políticas (como política de classificação e descarte) dificultam a correta destinação dos equipamentos.]`
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[O descarte de hardware abrange um processo amplo de logística e gestão que deve mitigar os riscos ao meio ambiente e à segurança corporativa.]`
+* Evidências que serão usadas: `[A representação do ciclo de hardware que inclui as fases de aquisição, utilização, obsolescência, gestão e descarte. A comprovação da importância do CEDIR-USP em realizar a destinação correta para evitar impactos ambientais. O risco de danos corporativos causados por vazamento de dados em descartes inadequados.]`
+* Comparação entre estudos: `[Parte da literatura compreende a gestão do descarte como um problema ambiental que demanda procedimentos internos e logística reversa. Em contrapartida, outra parte da literatura estende essa gestão ao tratamento lógico do lixo eletrônico, focado em proteger informações corporativas.]`
+* Ligação com o problema: `[Essa abordagem evidencia os múltiplos desafios enfrentados pelas organizações para criar uma gestão unificada que contemple tanto a integridade do meio ambiente quanto a segurança das informações do hardware obsoleto.]`
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`[A análise dos artigos revela uma tendência clara em demonstrar que a gestão de equipamentos eletroeletrônicos e o seu descarte enfrentam barreiras operacionais e humanas. Há uma forte convergência na literatura indicando o despreparo e o desconhecimento dos colaboradores sobre normas de descarte e legislações aplicáveis, bem como a carência de procedimentos técnicos para a destruição de dados. Observam-se divergências quanto ao enfoque primário do descarte: alguns autores priorizam a logística física e a contenção do impacto ambiental do lixo eletrônico, enquanto outros tratam o descarte sob a perspectiva de riscos à segurança da informação corporativa. Uma das principais lacunas encontradas é que as pesquisas baseiam-se fortemente em recortes muito específicos e estudos de caso locais, como secretarias públicas ou entidades universitárias específicas, além de amostras pequenas, o que limita a generalização para modelos de gestão de hardware em corporações de maior escala.]`
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [X] Os artigos foram agrupados por ideias.
+* [X] Há comparações entre estudos.
+* [X] As divergências foram registradas.
+* [X] As lacunas são específicas e sustentadas pelas leituras.
 
