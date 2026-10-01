@@ -6,9 +6,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Conhecimento dos colaboradores e políticas institucionais no descarte de eletrônicos.]`
-2. `[Práticas de gestão de resíduos e mitigação de impactos (ambientais e de segurança corporativa)]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `Conhecimento dos colaboradores e políticas institucionais no descarte de eletrônicos.`
+2. `Práticas de gestão de resíduos e mitigação de impactos (ambientais e de segurança corporativa)`
 
 ## Matriz de síntese
 
