@@ -18,7 +18,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-'O artigo investiga o descarte inadequado de mídias digitais de armazenamento no ambiente corporativo, destacando os riscos de informações armazenadas nesses equipamentos serem recuperadas por terceiros quando não são realizados procedimentos adequados de descarte.'
+'[O artigo investiga o descarte inadequado de mídias digitais de armazenamento no ambiente corporativo, destacando os riscos de informações armazenadas nesses equipamentos serem recuperadas por terceiros quando não são realizados procedimentos adequados de descarte.]'
 
 ### Objetivo do estudo
 
