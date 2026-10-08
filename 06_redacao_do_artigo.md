@@ -42,7 +42,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`A troca frequente de equipamentos tecnológicos nas empresas tem aumentado a quantidade de resíduos eletrônicos descartados. Esse problema exige cuidados para evitar danos ao meio ambiente e proteger as informações armazenadas nos equipamentos. Este estudo tem como objetivo apresentar orientações para o descarte sustentável de equipamentos de informática nas empresas, considerando tanto a proteção dos dados quanto o reaproveitamento dos materiais. Para isso, foi realizada uma revisão da literatura, com a análise de estudos publicados entre 2019 e 2024. Os resultados encontrados indicam que a falta de regras internas e o pouco conhecimento sobre a logística reversa são algumas das principais dificuldades nesse processo. Conclui-se que as empresas devem organizar melhor o descarte de seus equipamentos, apagando os dados armazenados, priorizando a doação ou a venda de aparelhos que ainda funcionam e encaminhando os materiais sem possibilidade de uso para empresas de reciclagem adequadas. Essas medidas podem ajudar a reduzir os impactos ambientais e melhorar as práticas de responsabilidade das organizações.`
 
 ## Referências
 
