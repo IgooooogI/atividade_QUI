@@ -32,13 +32,23 @@ A seleção dos estudos foi realizada em duas etapas. Primeiro, foram lidos os t
 
 ## Revisão da literatura
 
-### `[Eixo 1]`
+### `Eixo 1: Impactos Ambientais e Segurança da Informação no Descarte`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+Os estudos sobre o descarte de equipamentos eletrônicos mostram que esse processo envolve dois cuidados principais: proteger o meio ambiente e evitar que informações importantes sejam acessadas por pessoas não autorizadas. Silva e Martins (2021) apontam que o descarte incorreto de placas-mãe e baterias pode liberar substâncias como chumbo, cádmio e mercúrio no solo, causando danos ambientais. Já Oliveira e Costa (2022) destacam os riscos relacionados à falta de apagamento dos dados armazenados em discos rígidos antes do descarte ou da venda dos equipamentos.
 
-### `[Eixo 2]`
+Ao comparar as ideias desses autores, percebe-se que existem diferentes formas de lidar com o problema. Oliveira e Costa (2022) defendem a destruição física dos dispositivos de armazenamento como uma forma de impedir o acesso aos dados. No entanto, essa prática impossibilita o reaproveitamento dos componentes destruídos. Silva e Martins (2021), por sua vez, destacam a importância de evitar o desperdício e de buscar alternativas mais sustentáveis.
 
-`[Compare estudos, resultados, métodos e limitações.]`
+Diante disso, é necessário encontrar formas de proteger as informações sem impedir o reaproveitamento dos equipamentos que ainda podem ser utilizados. Uma das alternativas é apagar os dados de maneira segura por meio de ferramentas adequadas, antes de encaminhar os aparelhos para doação, venda ou reutilização. A destruição física pode ser reservada para os dispositivos que não permitem o apagamento seguro. Assim, um dos desafios identificados nesse tema é encontrar um equilíbrio entre a segurança das informações e a redução dos impactos ambientais.
+
+### `Eixo 2: Economia Circular e Logística Reversa em TI Corporativa`
+
+`Outro assunto importante é a busca por alternativas ao descarte comum de equipamentos eletrônicos. Nesse caso, a economia circular propõe que os produtos sejam utilizados por mais tempo, consertados quando necessário e reaproveitados sempre que possível. Santos et al. (2023) estudaram o recondicionamento de equipamentos de informática e apontaram que aumentar o tempo de uso desses aparelhos de três para cinco anos pode reduzir em até 40% a pegada de carbono da área de TI.
+
+Outra alternativa é a logística reversa, que permite devolver equipamentos usados aos fabricantes ou a outros responsáveis pelo seu recolhimento e tratamento. Almeida (2020) analisou programas oferecidos por fabricantes de equipamentos, como Dell, HP e Lenovo. Segundo o estudo, embora esses programas contribuam para uma destinação mais adequada dos materiais, a participação das empresas pode ser prejudicada pelas dificuldades e pelos procedimentos necessários para realizar a devolução.
+
+Em comparação, Santos et al. (2023) destacam possibilidades como a doação de equipamentos recondicionados para organizações não governamentais (ONGs) ou a venda por preços mais acessíveis para funcionários. Essas práticas permitem aproveitar aparelhos que ainda funcionam e podem ampliar o acesso à tecnologia. Além dos benefícios ambientais, também podem trazer benefícios sociais.
+
+Apesar dessas alternativas, ainda existem dificuldades para colocar essas práticas em funcionamento, principalmente em pequenas e médias empresas (PMEs), que podem ter menos recursos financeiros e uma estrutura menor para organizar o descarte. Por isso, é importante que as orientações sobre o tema considerem a realidade de empresas de diferentes tamanhos, oferecendo soluções que sejam possíveis de aplicar no dia a dia.`
 
 ### Síntese crítica
 
@@ -54,7 +64,13 @@ Outro ponto importante é a dificuldade que pequenas e médias empresas podem en
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+A gestão dos resíduos eletrônicos nas empresas exige planejamento e cuidados que vão além da contratação de um serviço de coleta. É necessário organizar o processo desde a identificação dos equipamentos que não serão mais utilizados até a definição do destino de cada aparelho. Com base nos assuntos analisados neste estudo, são propostas quatro medidas principais: (1) manter uma lista atualizada dos equipamentos e acompanhar seu tempo de uso; (2) apagar os dados armazenados de forma segura antes do descarte ou do reaproveitamento, reservando a destruição física para os casos em que ela for necessária; (3) priorizar o conserto, o recondicionamento, a doação e a venda dos equipamentos que ainda podem ser utilizados; e (4) acompanhar o destino dos resíduos e solicitar documentos que comprovem seu recebimento e tratamento adequado.
+
+As informações analisadas indicam que o descarte sustentável pode trazer benefícios tanto para o meio ambiente quanto para a organização das empresas. Além de reduzir o desperdício, essas práticas ajudam a proteger informações importantes e demonstram maior cuidado com a responsabilidade ambiental. Entretanto, ainda existem dificuldades, como a falta de estrutura para a reciclagem em algumas regiões e os custos envolvidos na organização desse processo.
+
+Dessa forma, é importante que as empresas adotem medidas que estejam de acordo com sua realidade e com as necessidades de segurança e proteção ambiental. Também são necessários novos estudos que analisem como essas práticas podem ser aplicadas em pequenas e médias empresas, considerando os custos e as dificuldades encontradas no dia a dia. Outra possibilidade para pesquisas futuras é avaliar o uso de tecnologias como o blockchain para registrar e acompanhar o caminho dos resíduos eletrônicos, facilitando a verificação de sua destinação.
+
+Conclui-se que o descarte sustentável de equipamentos de informática deve ser tratado como parte do planejamento das empresas. Com regras claras, cuidado com os dados e preferência pelo reaproveitamento, é possível reduzir os impactos ambientais e utilizar os recursos tecnológicos de maneira mais responsável.
 
 ## Resumo
 
