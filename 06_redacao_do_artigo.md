@@ -8,7 +8,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Título claro e coerente com o tema]`
+`[Gestão do Descarte de Resíduos Eletrônicos: Diretrizes para o Descarte Sustentável de Hardware no Ambiente Corporativo]`
 
 ## Palavras-chave
 
