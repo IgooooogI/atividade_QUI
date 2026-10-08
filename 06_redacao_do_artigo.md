@@ -89,9 +89,9 @@ https://doi.org/10.5902/1983465974238`
 
 ## Checklist
 
-* [ ] A introdução termina com o objetivo.
-* [ ] A metodologia descreve o processo realmente realizado.
-* [ ] A revisão compara os artigos.
-* [ ] A conclusão responde ao problema.
-* [ ] O resumo representa o texto completo.
+* [x] A introdução termina com o objetivo.
+* [x] A metodologia descreve o processo realmente realizado.
+* [x] A revisão compara os artigos.
+* [x] A conclusão responde ao problema.
+* [x] O resumo representa o texto completo.
 
