@@ -42,13 +42,13 @@ Diante disso, é necessário encontrar formas de proteger as informações sem i
 
 ### `Eixo 2: Economia Circular e Logística Reversa em TI Corporativa`
 
-`Outro assunto importante é a busca por alternativas ao descarte comum de equipamentos eletrônicos. Nesse caso, a economia circular propõe que os produtos sejam utilizados por mais tempo, consertados quando necessário e reaproveitados sempre que possível. Santos et al. (2023) estudaram o recondicionamento de equipamentos de informática e apontaram que aumentar o tempo de uso desses aparelhos de três para cinco anos pode reduzir em até 40% a pegada de carbono da área de TI.
+Outro assunto importante é a busca por alternativas ao descarte comum de equipamentos eletrônicos. Nesse caso, a economia circular propõe que os produtos sejam utilizados por mais tempo, consertados quando necessário e reaproveitados sempre que possível. Santos et al. (2023) estudaram o recondicionamento de equipamentos de informática e apontaram que aumentar o tempo de uso desses aparelhos de três para cinco anos pode reduzir em até 40% a pegada de carbono da área de TI.
 
 Outra alternativa é a logística reversa, que permite devolver equipamentos usados aos fabricantes ou a outros responsáveis pelo seu recolhimento e tratamento. Almeida (2020) analisou programas oferecidos por fabricantes de equipamentos, como Dell, HP e Lenovo. Segundo o estudo, embora esses programas contribuam para uma destinação mais adequada dos materiais, a participação das empresas pode ser prejudicada pelas dificuldades e pelos procedimentos necessários para realizar a devolução.
 
 Em comparação, Santos et al. (2023) destacam possibilidades como a doação de equipamentos recondicionados para organizações não governamentais (ONGs) ou a venda por preços mais acessíveis para funcionários. Essas práticas permitem aproveitar aparelhos que ainda funcionam e podem ampliar o acesso à tecnologia. Além dos benefícios ambientais, também podem trazer benefícios sociais.
 
-Apesar dessas alternativas, ainda existem dificuldades para colocar essas práticas em funcionamento, principalmente em pequenas e médias empresas (PMEs), que podem ter menos recursos financeiros e uma estrutura menor para organizar o descarte. Por isso, é importante que as orientações sobre o tema considerem a realidade de empresas de diferentes tamanhos, oferecendo soluções que sejam possíveis de aplicar no dia a dia.`
+Apesar dessas alternativas, ainda existem dificuldades para colocar essas práticas em funcionamento, principalmente em pequenas e médias empresas (PMEs), que podem ter menos recursos financeiros e uma estrutura menor para organizar o descarte. Por isso, é importante que as orientações sobre o tema considerem a realidade de empresas de diferentes tamanhos, oferecendo soluções que sejam possíveis de aplicar no dia a dia.
 
 ### Síntese crítica
 
@@ -78,7 +78,14 @@ A troca frequente de equipamentos tecnológicos nas empresas tem aumentado a qua
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`BERNARDO, Odair Oliveira; SOUZA, Maria Tereza Saraiva de; DEMAJOROVIC, Jacques. Inovação na cadeia reversa de resíduos eletroeletrônicos: um estudo sobre os sistemas de informação e as tecnologias de rastreamento. Revista de Administração de Empresas, São Paulo, v. 60, n. 4, 2020. DOI: 
+https://doi.org/10.1590/S0034-759020200402
+
+SANTOS, Kauê Lopes dos. Resíduos de equipamentos eletroeletrônicos na Macrometrópole Paulista: normas e técnicas a serviço da logística reversa. Ambiente & Sociedade, v. 23, 2020. DOI: 
+https://doi.org/10.1590/1809-4422asoc20190121r1vu2020L2DE
+
+A operação de logística reversa de resíduos sólidos pós-consumo de produtos eletrônicos de uso doméstico no Brasil. Revista de Administração da UFSM, v. 16, n. 3, 2023. DOI: 
+https://doi.org/10.5902/1983465974238`
 
 ## Checklist
 
